@@ -4,8 +4,15 @@
  - Classes, Object, Object initiation
  - Constructors, NoArg, All Arg, Access modifiers, (pending default and protected), covered private and public
 
-11/15/2023:
- - Loop, for, foreach loop
- - conditonal statements - if, else, else if, switch statements
+11/15/2023 11:22PM - 12:37 AM:
+ - default access modifiers
+ - default and null values between primitive and reference types.
+
+11/16/2023:
+ - Inheritence, protected
+ - conditonal statements - if, else, else if, switch statements, ternary opeartor
+ - Arrays Loop, for, foreach loop
  - Array, List, Set, Map
+ - Nested objects
+ - Exceptions
 ```
