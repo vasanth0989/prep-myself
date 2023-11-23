@@ -16,8 +16,6 @@
  
  11/18/2023 10:15PM to 11:27PM:
  - Inheritence, protected
-
-
  - conditonal statements - if, else, else if, switch statements, ternary opeartor
  - Arrays Loop, for, foreach loop
  - Array, List, Set, Map
