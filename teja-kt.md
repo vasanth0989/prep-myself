@@ -19,9 +19,12 @@
 08|11/21/2023: No Nothing
 
 09|11/22/2023 11:42PM:
+- conditonal statements - if, else, else if, switch statements, ternary opeartor (X)
+- Arrays Loop, for, foreach loop (X)
+- Array, List, Set, Map (X)
+- Nested objects (X)
+- Exceptions (X)
+
+10|12/16/2023 01:14 PM CST 02:14 PM CST:
 - conditonal statements - if, else, else if, switch statements, ternary opeartor
-- Arrays Loop, for, foreach loop
-- Array, List, Set, Map
-- Nested objects
-- Exceptions 
 ```
