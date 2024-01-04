@@ -4,11 +4,8 @@ public class TestMain {
         Employee emp1 = new Employee("Vasanth", "Discover", 100.00d);
         Employee emp2 = new Employee("Prudhvi", "Discover", 200.00d);
         Employee emp3 = new Employee("Teja", "Nordstorm", 300.00d);
-
         // if else
         // if employee name is equals Vasanth
-
-
 //        if(emp1.getName().equalsIgnoreCase("vasanth")){}
         // Best practice always compare the known values first
         boolean val = false;
@@ -24,13 +21,6 @@ public class TestMain {
 //        System.out.println("Value:"+value);
 
         // if employee name starts with 'v'
-
-
-
-
-
-
-
     }
 }
 
